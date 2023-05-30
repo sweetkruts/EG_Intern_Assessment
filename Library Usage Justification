@@ -1,0 +1,18 @@
+Following the requirement of reducing dependenices outside standard Python libraries, only select non-standard libraries were used, and their justifications are proven here:
+
+pandas and numpy: as stated in the task, there is no need to prove the performance benefits of these two.
+
+matplotlib and seaborn: Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python, while
+seaborn is a statistical data visualization library based on matplotlib. I use these two libraries for creating the heatmap of player positions. 
+While Python has built-in tools for visualization (like turtle), matplotlib and seaborn are far more powerful and flexible, and they are widely used
+in the data science and machine learning community. These libraries make it significantly easier to create complex visualizations like heatmaps, and
+the resulting plots are also easier to interpret.
+
+scikit-learn: Scikit-learn is an open-source machine learning library for Python. I use its KMeans functionality to perform k-means clustering on
+the player position data. Python does not have built-in tools for machine learning. While it would be possible to implement k-means clustering from
+scratch in Python, using scikit-learn greatly simplifies our code and reduces the chance of errors. Scikit-learn's implementation is also likely to
+be more efficient than a manually version, as it has been optimized by a community of expert developers. It makes most sense to use the scikit-learn library in our case.
+
+The decision to use these libraries was taken after considering their efficiency, ease of use, and the fact that they are widely adopted in the
+Python community for tasks similar to what we need to do in this project. Removing them would either require a significant rewrite of the code
+that would likely leave it less efficient and harder to understand, or would result in loss of functionality.
