@@ -1,13 +1,14 @@
 Q1. Is entering via the light blue boundary a common strategy used by Team2 on T (terrorist) side?
 A1. Yes, out of all of the rounds where Team2 was on T side, 48.275% of them saw at least one Team2 player entering the boundary.
     This is a very high percentage for pushing through the chokepoint and the defending side should pay special attention to this boundary.
+    Paying extra attention to utility usage in this area should yield high rewards for the team in consideration.
     
 Q2. What is the average timer that Team2 on T (terrorist) side enters “BombsiteB” with least 2 rifles or SMGs?
 A2. In the rounds where 2 or more players with rifles or SMG's on Team2 on T side succesfully entried BombsiteB, they were 35.416 seconds into the round.
     This means that Team2 rushes quiet often and doesn't like to play default or slow when they're on T side.
     
 A3. As seen in the file Team2_CT_Cluster_BombsiteB.png, the top three likely spots for defenders to be holding site are at coordinates (-810,420), (-840, -110), and (-825, -100).
-    I chose to have 3 clusters because having 3 defenders holding site is a relatively common strategy employed by players. However, clusters can be changed to consider different scenarios.
+    I chose to have 3 clusters because having 3 defenders holding site for postplant is a relatively common strategy employed by players. However, clusters can be changed to consider different scenarios.
     
 Q4. Proposed Solution
     
