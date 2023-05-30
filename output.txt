@@ -1,0 +1,2 @@
+48.275862068965516% of rounds saw at least one Team2 player on T side entering the boundary.
+On average, at least two Team2 players on T side with either a Rifle or SMG entered BombsiteB at 35.416666666666664 seconds into the round.
