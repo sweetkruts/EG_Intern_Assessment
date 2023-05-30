@@ -18,7 +18,7 @@ pip install pandas matplotlib seaborn scikit-learn
 
 # Getting Started
 Clone this repository to your local machine:
-`git clone https://github.com/<your_username>/csgo-game-state-analysis.git`
+`git clone https://github.com/sweetkruts/EG_Intern_Assessment`
 
 # Usage
 Run main file with desired characteristics: team (Team1/Team2), side (T/CT), bombsite. The class provides several methods for analyzing the game data:
