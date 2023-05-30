@@ -9,6 +9,8 @@ A2. In the rounds where 2 or more players with rifles or SMG's on Team2 on T sid
     
 A3. As seen in the file Team2_CT_Cluster_BombsiteB.png, the top three likely spots for defenders to be holding site are at coordinates (-810,420), (-840, -110), and (-825, -100).
     I chose to have 3 clusters because having 3 defenders holding site for postplant is a relatively common strategy employed by players. However, clusters can be changed to consider different scenarios.
+    As a comparision to how the other team holds site, I have included Team1_CT_Cluster_BombsiteB.png for viewing as well. We notice that similar positions are taken by both teams, with both teams predicted
+    to play in a triangle formation, most likely so that the team can trade off each other.
     
 Q4. Proposed Solution
     
