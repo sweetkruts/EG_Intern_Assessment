@@ -1,4 +1,4 @@
-# #EGWIN
+# #EGWIN - SWE Internship Assessment
 
 This project provides tools for analyzing Counter-Strike: Global Offensive (CS:GO) game data. It generates insights and visualizations about player behavior and strategies, with a particular focus on team movement and weapon usage. The results and data for the relevant questions reagarding the assessment are in the output.txt and Team2_CT_Cluster_BombsiteB.png. The justification required for using external libraries is in the text file "Library Usage Justification". The answers to the written questions are in "Short Answer".
 
